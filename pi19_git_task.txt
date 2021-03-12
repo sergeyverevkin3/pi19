@@ -24,6 +24,8 @@
   git checkout pi19-surname-name
   git merge master
   
+...
+
 
 Сценарий работы № 2 (используем, 2.1-2.3)
 2.1. Зарегистрироваться на github.com
